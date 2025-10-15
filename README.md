@@ -1,4 +1,4 @@
-🗂️ 🌀 Task Manager
+# 🗂️ Task Manager
 
 Un petit projet de gestionnaire de tâches développé avec une micro-architecture inspirée du MVC.
 L’objectif : organiser, créer, modifier et supprimer des tâches tout en séparant clairement la logique métier, la vue et le contrôleur.
