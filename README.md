@@ -15,7 +15,7 @@ Clone le projet :
 
 git clone [https://github.com/jarod-it/taskManager.git]
 
-cd convolution
+cd taskManager
 
 # 🧑‍💻 Auteur
 
